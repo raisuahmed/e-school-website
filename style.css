@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    width: 100%;
+    height: 430px;
+    margin-bottom:200px;
+}
+.collapse{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color:rgb(243, 247, 247);
+    display: flex;
+}
+.logo{
+    width: 15%;
+    
+}
+section{
+    display: flex;
+}
+.ready{
+    color: red;
+}
+.text{
+    font-weight: bold;
+    margin-left: 5px;
+}
+span{
+    color: #278f27;
+}
+
+.nav-link1{
+    border-radius: 0px 30px;
+    margin-bottom: 150px;
+    height: 6px;
+    color: aliceblue;
+}
+.nav-link1:hover{
+    color: beige;
+    text-decoration: none;
+    font-weight: bold;
+}
+.site-headers{
+width: 100%;
+background-color: rgb(243, 247, 247);
+}
+
+.leftside{
+    margin: 50px 20px;
+}
+.rightside{
+    margin: 20px;
+   
+
+}
+.right-image{
+    width: 450px;
+}
+
+.card-img-top{
+  width: 100px;
+  margin:40px  100px;
+}
+.card{
+    border: none;
+
+}
+.card-body{
+    text-align: left;
+}
+.card-text, .card-title{
+    margin-left: 70px;
+}
+
+.shadow{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(218,214,214);
+}
+.card-title1{
+    font-weight: bold;
+}
+.card-img-top1{
+    width: 260px;
+    margin:20px 50px;
+}
+
+
+.start{
+    width: 20px;
+    height: 20px;
+}
+.buy-now-button{
+    border-radius:20px 20px;
+    background-image:linear-gradient(to bottom, #02c553 70%, #04b13d 100% );
+    color: #fff;
+    border: none;
+    padding: 9px 10px;
+    cursor: pointer;
+    width: 140px;
+
+}
+p{
+    margin-right: 35px;
+   
+}
+.left-image{
+    width: 170px;
+    margin-left: 220px;
+    margin-top: 50px;
+}
+h1{
+   margin-left: 150px;
+ 
+   font-size: 40px;
+   font-weight: bold;
+   text-shadow: 2px 0px;
+}
+.text1{
+    margin-top: 50px;
+}
+.container1{
+    width: 100%;
+    height: 260px;
+    margin-top: 100px;
+   padding: 30px 100px;
+   color: rgb(191, 194, 191);
+   background-color:#252424;
+}
+ li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.li{
+    font-weight: bold;
+}
+
+
+footer{
+    margin-left: 370px;
+    color: rgb(191, 194, 191);
+}
+
