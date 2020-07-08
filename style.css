@@ -64,7 +64,10 @@ span{
     width: 450px;
     margin-top: 100px;
 }
-
+.card-img-top2{
+    width: 100px;
+    margin:17px  100px;
+  }
 .card-img-top{
   width: 100px;
   margin:30px  100px;
@@ -90,7 +93,7 @@ span{
     color: rgb(48, 40, 40);
 }
 .catagories{
-    margin-top: -170px;
+    margin-top: -350px;
 }
 
 .card-img-top1{
@@ -98,7 +101,12 @@ span{
     margin:20px 50px;
 }
 
-
+.card-img-top1:hover{
+    width: 300px;
+}
+.card-footer{
+    border: none;
+}
 .start{
     width: 15px;
     height: 20px;
@@ -149,12 +157,20 @@ h1{
    color: rgb(191, 194, 191);
    background-color:#252424;
 }
- li{
+ a:link{
     text-decoration: none;
     list-style-type: none;
+    
+    
+}
+ li:hover{
+    
+    border-radius: 5px 5px;
+    color: slategrey;
 }
 .li{
     font-weight: bold;
+   
 }
 
 
